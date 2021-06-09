@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to DIYJam Podcast
-    subtitle: >-
-      Optional hero section subtitle
+    subtitle: Optional hero section subtitle
     content: >-
-      A podcast for Web developers interested in building Jamstack websites. Hosted by Miles Tone.
+      A podcast for Web developers interested in building Jamstack websites.
+      Hosted by Miles Tone.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
@@ -143,9 +143,11 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: |-
+    content: >-
       ## Ask A Question
-      I'm OK with any kind of questions and will answer as many as I possibly can.
+
+      I'm OK with any kind of questions and will answer as many as I possibly
+      can.
     content_align: left
     form_position: right
     form_width: fifty
@@ -154,15 +156,15 @@ sections:
     form_id: contact-form
     form_action: /thank-you
     form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        default_value: Your name
-        is_required: true
       - input_type: email
         name: email
         label: Email
         default_value: Your email address
+        is_required: true
+      - input_type: text
+        name: name
+        label: Name
+        default_value: Your name
         is_required: true
       - input_type: textarea
         name: message
@@ -187,26 +189,26 @@ seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Podcaster Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Podcaster theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/hero.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Podcaster Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Podcaster theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true
 layout: advanced
