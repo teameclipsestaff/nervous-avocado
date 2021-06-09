@@ -143,11 +143,10 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: |
+      ## Get Notified
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+      Get notified every time Ayden releases a new episode.
     content_align: left
     form_position: right
     form_width: fifty
