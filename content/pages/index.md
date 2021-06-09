@@ -161,10 +161,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: textarea
-        name: message
-        label: Question
-        default_value: Your question
       - input_type: checkbox
         name: consent
         label: >-
