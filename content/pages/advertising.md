@@ -4,40 +4,54 @@ seo:
   title: Advertising
   description: This is the advertising page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Advertising
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the advertising page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/advertising.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Advertising
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the advertising page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/advertising.png
       relativeUrl: true
 layout: page
 ---
+## Advertising
 
-![A boy in front of microphone](/images/advertising.png)
+Here is all the advertising information you need.
 
-## Here are the facts!
+## Info!
 
-- Nulla pellentesque enim id risus viverra, vitae cursus nisi posuere.
-- Ut maximus leo ut mauris sollicitudin, nec hendrerit arcu cursus.
-- Praesent egestas justo eget lacus varius, ut varius ante pretium.
-- Nullam convallis diam a mauris faucibus dignissim.
+*   You'll need to contact Ayden for pricing.
+*   We expect 100% of money upfront.
+*   We will not advertise anything that goes against our beliefs.
 
-## Intrested?
+## Interested?
 
-The spots are sold through Jam Ads, and they have a calendar of availability you can see and self-service [booking right there](/thank-you)!
+Contact Ayden Jackson on instagram.
+
+
+
+## Beliefs:
+
+*   We believe in God (we will not advertise anything explicit)
+
+<!---->
+
+*   We will not endorse any political candidates
+
+<!---->
+
+*   We will not endorse products, media, and people we are not confidante in
